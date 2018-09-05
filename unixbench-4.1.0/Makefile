@@ -46,6 +46,8 @@ CC=gcc
 ## For Solaris 2, or general-purpose GCC 2.7.x
 OPTON = -O2 -fomit-frame-pointer -fforce-addr -fforce-mem -ffast-math -Wall
 
+OPTON = -O2 -fomit-frame-pointer -fforce-addr -ffast-math -Wall
+
 ## Very generic
 #OPTON = -O
 
