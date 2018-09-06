@@ -17,6 +17,7 @@
  ******************************************************************************/
 char SCCSid[] = "@(#) @(#)cctest.c:1.2 -- 7/10/89 18:55:45";
 #include <stdio.h>
+#include <stdlib.h>
 /*
  * C compile and load speed test file.
  * Based upon fstime.c from MUSBUS 3.1, with all calls to ftime() replaced
